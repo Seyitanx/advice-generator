@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://enchanting-paletas-8ee09a.netlify.app/)
 
 ## My process
 
@@ -51,8 +51,7 @@ Users should be able to:
 
 ### What I learned
 
-it was challenging, but with my knowdledge of API i was able to make it work. i aalso respomsive and i was able to use my knowdledge of CSS flex box to practice
-
+it was challenging, but with my knowdledge of API i was able to make it work. i aalso respomsive and i was able to use my knowdledge of CSS flex box to practice. i ade few chnages to the css styling as well
 T
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
